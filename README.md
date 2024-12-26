@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hunain053&label=Profile%20views&color=0e75b6&style=flat" alt="hunain053" /> </p>
 
-<p align="left"> <a href="https://twitter.com/haruxd19" target="blank"><img src="https://img.shields.io/twitter/follow/haruxd19?logo=twitter&style=for-the-badge" alt="haruxd19" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
