@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=twitter&style=for-the-badge)](https://twitter.com/haruxd19)
+[![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=twitter&style=for-the-badge)](https://twitter.com/HaruxD020)
 [![Email](https://img.shields.io/badge/-Email-000?&logo=gmail&style=for-the-badge)](mailto:https.hunainmahudawala786@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/hunain-mahudawala/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=instagram&style=for-the-badge)](https://www.instagram.com/hunain._.pvt/)
