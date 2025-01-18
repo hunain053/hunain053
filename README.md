@@ -15,11 +15,7 @@
 
 - 📄 My Resume [https://drive.google.com/file/d/1uGJt-zuXsnN77S6ZL40yq_0VOcROm59F/view?usp=drivesdk](https://drive.google.com/file/d/1uGJt-zuXsnN77S6ZL40yq_0VOcROm59F/view?usp=drivesdk)
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<br/><br/><br/><br/><br/><br/><br/>
 
 <div align="center">
 
