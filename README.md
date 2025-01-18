@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hunain Mahudawala</h1>
 <h3 align="center">web developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://siddharth.is-a.dev/assets/shigure2.gif">
+<img align="right" alt="Coding" width="300"  src="https://siddharth.is-a.dev/assets/shigure2.gif">
 
 
 - 🌱 I’m currently learning **MERN Stack**
@@ -15,8 +15,8 @@
 
 - 📄 My Resume [https://drive.google.com/file/d/1uGJt-zuXsnN77S6ZL40yq_0VOcROm59F/view?usp=drivesdk](https://drive.google.com/file/d/1uGJt-zuXsnN77S6ZL40yq_0VOcROm59F/view?usp=drivesdk)
 
-<br/><br/><br/><br/><br/><br/><br/>
 
+<br/>
 <div align="center">
 
 
@@ -28,7 +28,7 @@
 <!-- Socials -->
 <div align="center">
 
-## 🌐 Connect with Me 🍬
+## 🌐 Connect with Me 🐼
  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/haru_19_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hunain._.pvt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hunain-mahudawala)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HaruxD020) 
 </div>
 <br/>
