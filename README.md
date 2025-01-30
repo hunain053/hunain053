@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://hunainmw.vercel.app/](https://hunainmw.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://hunainmw2.netlify.app/](https://hunainmw2.netlify.app/)
 
 - 💬 Ask me about **JavaScript,TailwindCSS,React,Nodejs,Express**
 
