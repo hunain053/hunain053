@@ -1,8 +1,8 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Hunain Mahudawala</h1>
-<h3 align="center">web developer from India</h3>
+<h3 align="center">A Full-Stack Developer</h3>
 
-<img align="right" alt="Coding" width="300"  src="https://siddharth.is-a.dev/assets/shigure2.gif">
+<img align="right" alt="Coding" width="300"  src="https://media.tenor.com/O5EGwZuV3sEAAAAi/wave-hi.gif"><br/><br/>
 
 
 - 🌱 I’m currently learning **MERN Stack**
@@ -13,10 +13,8 @@
 
 - 📫 How to reach me **hunainmahudawala786@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/1uGJt-zuXsnN77S6ZL40yq_0VOcROm59F/view?usp=drivesdk](https://drive.google.com/file/d/1uGJt-zuXsnN77S6ZL40yq_0VOcROm59F/view?usp=drivesdk)
-
-
 <br/><br/><br/>
+
 <div align="center">
 
 
